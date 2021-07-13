@@ -1,2 +1,2 @@
 # AccuWeigh
-An agricultural weighing system.
+A mobile app for agricultural weighing.
